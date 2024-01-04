@@ -9,4 +9,6 @@ System.out.printf("%d" * %d = %d", 6, i, 6*i).println();
 // Create mathod 
 Void groupNames() {
 System.out.println("Manish Mishra");
-System.out.println("
+System.out.println("Deepak Kumar");
+System.out.println("Raman Bansal");
+}
